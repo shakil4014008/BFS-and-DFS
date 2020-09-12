@@ -1,6 +1,6 @@
 # BFS-and-DFS
 
-````algorithm`````
+````c#
 
 BFS-B(G,s)
     for all v in V[G] do
@@ -40,4 +40,4 @@ BFS-B(G,s)
         
         
 
-```````````````````
+````
