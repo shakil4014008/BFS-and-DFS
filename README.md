@@ -1,6 +1,10 @@
 # BFS-and-DFS
 
 ````c#
+BFS and DFS differences and complexity; 
+1. BFS uses queue or level ordering or FIFO process, and DFS uses stack or LIFO for traversing the graph
+2. 
+
 Algorithms:
 
 BFS-B(G,s)
