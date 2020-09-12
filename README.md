@@ -1,6 +1,7 @@
 # BFS-and-DFS
 
 ````c#
+Algorithms:
 
 BFS-B(G,s)
     for all v in V[G] do
